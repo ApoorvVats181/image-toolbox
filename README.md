@@ -13,20 +13,15 @@ A Python library for performing common image transformations like rotating, crop
 
 ## Images
 
-![Input Image](https://github.com/ApoorvVats181/image-toolbox/blob/master/Images/input_image.jpg)  
-*Original Input Image.*
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github.com/ApoorvVats181/image-toolbox/blob/master/Images/input_image.jpg" width="200" alt="Input Image">
+    <img src="https://github.com/ApoorvVats181/image-toolbox/blob/master/Images/blurred_image.jpg" width="200" alt="Blurred Image">
+    <img src="https://github.com/ApoorvVats181/image-toolbox/blob/master/Images/flipped_image.jpg" width="200" alt="Flipped Image">
+    <img src="https://github.com/ApoorvVats181/image-toolbox/blob/master/Images/grayscale_image.jpg" width="200" alt="Grayscale Image">
+    <img src="https://github.com/ApoorvVats181/image-toolbox/blob/master/Images/rotated_image.jpg" width="200" alt="Rotated Image">
+</div>
 
-![Blurred Image](https://github.com/ApoorvVats181/image-toolbox/blob/master/Images/blurred_image.jpg)  
-*Image after applying blur effect.*
-
-![Flipped Image](https://github.com/ApoorvVats181/image-toolbox/blob/master/Images/flipped_image.jpg)  
-*Image after flipping.*
-
-![Grayscale Image](https://github.com/ApoorvVats181/image-toolbox/blob/master/Images/grayscale_image.jpg)  
-*Image converted to grayscale.*
-
-![Rotated Image](https://github.com/ApoorvVats181/image-toolbox/blob/master/Images/rotated_image.jpg)  
-*Image after rotation.*
+## Installation
 
 ### Prerequisites
 
