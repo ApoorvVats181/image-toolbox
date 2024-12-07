@@ -13,12 +13,27 @@ A Python library for performing common image transformations like rotating, crop
 
 ## Images
 
-<div style="display: flex; justify-content: space-around;">
-    <img src="https://github.com/ApoorvVats181/image-toolbox/blob/master/Images/input_image.jpg" width="200" alt="Input Image">
-    <img src="https://github.com/ApoorvVats181/image-toolbox/blob/master/Images/blurred_image.jpg" width="200" alt="Blurred Image">
-    <img src="https://github.com/ApoorvVats181/image-toolbox/blob/master/Images/flipped_image.jpg" width="200" alt="Flipped Image">
-    <img src="https://github.com/ApoorvVats181/image-toolbox/blob/master/Images/grayscale_image.jpg" width="200" alt="Grayscale Image">
-    <img src="https://github.com/ApoorvVats181/image-toolbox/blob/master/Images/rotated_image.jpg" width="200" alt="Rotated Image">
+<div style="display: flex; justify-content: space-around; text-align: center;">
+    <div>
+        <img src="https://github.com/ApoorvVats181/image-toolbox/blob/master/Images/input_image.jpg" width="200" alt="Input Image">
+        <p><strong>Input Image</strong></p>
+    </div>
+    <div>
+        <img src="https://github.com/ApoorvVats181/image-toolbox/blob/master/Images/blurred_image.jpg" width="200" alt="Blurred Image">
+        <p><strong>Blurred Image</strong></p>
+    </div>
+    <div>
+        <img src="https://github.com/ApoorvVats181/image-toolbox/blob/master/Images/flipped_image.jpg" width="200" alt="Flipped Image">
+        <p><strong>Flipped Image</strong></p>
+    </div>
+    <div>
+        <img src="https://github.com/ApoorvVats181/image-toolbox/blob/master/Images/grayscale_image.jpg" width="200" alt="Grayscale Image">
+        <p><strong>Grayscale Image</strong></p>
+    </div>
+    <div>
+        <img src="https://github.com/ApoorvVats181/image-toolbox/blob/master/Images/rotated_image.jpg" width="200" alt="Rotated Image">
+        <p><strong>Rotated Image</strong></p>
+    </div>
 </div>
 
 ## Installation
